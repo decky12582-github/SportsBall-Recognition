@@ -13,7 +13,7 @@ start up terminal and type these commands in:
   $ cd my-recognition-master
 ```
 ```
-  $ imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt basketball.jpg basketball_ssd.jpg
+  $ imagenet.py --model=resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=labels.txt ball.jpg ballout.jpg
 ```
 drive video link:
   
