@@ -15,5 +15,6 @@ start up terminal and type these commands in:
 ```
   $ imagenet.py --model=resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=labels.txt ball.jpg ballout.jpg
 ```
-drive video link:
-  
+youtube video demonstration:
+
+  https://youtu.be/4f_J2l6UEGE
